@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       work
       <button onClick ={onClose}>Закрыть</button>
+      <button>Открыть</button>
     </div>
   );
 }
