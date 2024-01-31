@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      work - netlify
+      work - netlify - update
       <button onClick ={onClose}>Закрыть</button>
       <button>Открыть</button>
     </div>
